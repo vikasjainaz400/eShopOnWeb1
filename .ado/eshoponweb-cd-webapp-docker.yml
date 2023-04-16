@@ -9,7 +9,7 @@ variables:
   azureServiceConnection: 'azure-connection'
   resourceGroup: 'rg-az400-container-vikas'
   location: 'westeurope'
-  subscriptionId: 'Y5e3d791b-90b5-4712-adc0-041f07fc370d'
+  subscriptionId: '5e3d791b-90b5-4712-adc0-041f07fc370d'
 
 stages:
 - stage: Deploy
